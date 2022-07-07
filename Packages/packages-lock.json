@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.unity.mathematics": {
+      "version": "1.2.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.timeline": {
       "version": "1.6.4",
       "depth": 0,
@@ -42,6 +49,12 @@
     "com.unity.modules.particlesystem": {
       "version": "1.0.0",
       "depth": 1,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.physics": {
+      "version": "1.0.0",
+      "depth": 0,
       "source": "builtin",
       "dependencies": {}
     }
